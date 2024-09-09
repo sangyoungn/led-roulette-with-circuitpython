@@ -1,0 +1,4 @@
+roulette-backups/
+*.bak
+fp-info-cache
+roulette.kicad_prl
