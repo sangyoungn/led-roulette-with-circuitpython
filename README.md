@@ -11,17 +11,17 @@ This is a project to build an LED roulette with CircuitPython on EFR32xG24 Explo
 
 .   
 ├── **hardware**   
-|        └── **roulette** (KiCad Design Directory)   
-|                 ├── **gerber** (PCB Gerber Plot Directory)   
-|                 ├── **pdf** (PCB PDF Polt Directory)   
-|                 ├── *roulette.dxf* (PCB Outline and Decoration Silk DXF)   
-|                 ├── *roulette.kicad_pcb* (PCB Design File)   
-|                 ├── *roulette.kicad_pro* (KiCad Project File)   
-|                 ├── *roulette.pdf* (PDF Plot File of Whole Schematic)   
-|                 ├── *roulette.kicad_sch* (Schematic File #1)   
-|                 ├── *LEDs.kicad_sch* (Schematic File #2)    
-|                 └── *xg24_explorer_kit.kicad_sch* (Schematic File #3)   
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── **roulette** (KiCad Design Directory)   
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── **gerber** (PCB Gerber Plot Directory)   
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── **pdf** (PCB PDF Polt Directory)   
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── *roulette.dxf* (PCB Outline and Decoration Silk DXF)   
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── *roulette.kicad_pcb* (PCB Design File)   
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── *roulette.kicad_pro* (KiCad Project File)   
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── *roulette.pdf* (PDF Plot File of Whole Schematic)   
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── *roulette.kicad_sch* (Schematic File #1)   
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── *LEDs.kicad_sch* (Schematic File #2)    
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── *xg24_explorer_kit.kicad_sch* (Schematic File #3)   
 └── **code**   
-         ├── *code.py*   
-         └── *led_roulette.py*   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── *code.py*   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── *led_roulette.py*   
 
