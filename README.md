@@ -2,6 +2,8 @@
 
 This is a project to build an LED roulette with CircuitPython on EFR32xG24 Explorer Kit.
 
+<img src="asset/roulette.png" style="zoom:50%;" />
+
 ## Contents
 
 "**hardware**" directory contains files for the hardware design including schematic and gerber output.
@@ -25,3 +27,8 @@ This is a project to build an LED roulette with CircuitPython on EFR32xG24 Explo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── *code.py*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── *led_roulette.py*   
 
+
+
+Refer to clips in the link for more information.
+
+https://youtube.com/playlist?list=PLlT0qmKc0_5ddENmn3fNbMIVXvFqQTv2Z&si=PHfeczIfOtfNPaJ8
